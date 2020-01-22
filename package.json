@@ -1,0 +1,23 @@
+{
+  "name": "transcode-video",
+  "version": "1.0.0",
+  "description": "Testing AWS Servless techniques",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "aws-sdk": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marciovbrazil/transcode-video.git"
+  },
+  "keywords": [],
+  "author": "Marcio Vieira",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/marciovbrazil/transcode-video/issues"
+  },
+  "homepage": "https://github.com/marciovbrazil/transcode-video#readme"
+}
